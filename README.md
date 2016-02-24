@@ -1,11 +1,18 @@
 # MCC-Offloading
 This project is used to do experiments of offloading algorithms on the MCC system: https://github.com/bxs3514/AndroidFelix.
 This repository contains bundles which are components of experiment application.
-The Loop1,2 and Fibonacci1,2,3 are components of the testing chain applications.
-The Tree0-9 are components of the testing tree application.
 
-The experiment1-2 contains some experiment datas.
-And doc files are the reports of the MCC system.
+Praperation: 
+1. Download MCC client, AndroidFelix: https://github.com/bxs3514/AndroidFelix
+2. Download MCC server: https://github.com/bxs3514/FelixServer
+
+Configuration: 
+1. Install MCC client on Android and server on Windows
+2. Save all necessary bundles (e.g. all bundles in ChainBundles) under /sdcard/AFelixData/Bundle on the client
+3. Startup the client and server, configure the TCP IP socket address according to the server (try ipconfig on your pc and the default port is 8888)
+4. Install all bundles into client and server (you can also offload them online)
+5. Run the AndroidOffload monitor
+6. Start the experiment now!
 
 If you want to do these experiments by yourself, you should install the MCC system first then install all of thest bundles in to the MCC system. You also need some basic R-OSGi bundles for supporting the cloud computing.
 
