@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: treeA1
+Bundle-SymbolicName: zlab.offload.treeA1
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: zlab.offload.treeA1.Activator
+Import-Package: org.osgi.framework;version="1.3.0",
+ zlab.offload.treeA2.api,
+ zlab.offload.treeA4.api
+Export-Package: zlab.offload.treeA1.api
+Require-Bundle: ch.ethz.iks.r_osgi.remote;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
