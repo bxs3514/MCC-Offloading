@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Loop3
+Bundle-SymbolicName: Loop3
+Bundle-Version: 1.0.0
+Bundle-Activator: loop3.LoopActivator3
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: ch.ethz.iks.r_osgi,
+ ch.ethz.iks.r_osgi.channels,
+ ch.ethz.iks.r_osgi.messages,
+ ch.ethz.iks.r_osgi.service_discovery,
+ ch.ethz.iks.r_osgi.types,
+ ch.ethz.iks.util,
+ fibonacci2.service,
+ mobilne.dex.service,
+ org.osgi.framework;version="1.3.0"
+Export-Package: loop3.service

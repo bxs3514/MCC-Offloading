@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Fibonacci2
+Bundle-SymbolicName: Fibonacci2
+Bundle-Version: 1.0.0
+Bundle-Activator: fibonacci2.FibonacciActivator2
+Bundle-Vendor: Felix
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: ch.ethz.iks.r_osgi,
+ ch.ethz.iks.r_osgi.channels,
+ ch.ethz.iks.r_osgi.messages,
+ ch.ethz.iks.r_osgi.service_discovery,
+ ch.ethz.iks.r_osgi.types,
+ ch.ethz.iks.util,
+ mobilne.dex.service,
+ org.osgi.framework;version="1.3.0"
+Export-Package: fibonacci2.service
