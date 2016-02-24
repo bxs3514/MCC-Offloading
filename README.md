@@ -13,8 +13,9 @@ Configuration: <br />
 4. Install all bundles into client and server (you can also offload them online) <br />
 5. Run the AndroidOffload monitor <br />
 6. Start the experiment now! <br />
-
-If you want to do these experiments by yourself, you should install the MCC system first then install all of thest bundles in to the MCC system. You also need some basic R-OSGi bundles for supporting the cloud computing.
+<br />
+<br />
+Note: The statistic of executing time will be shown on the mobile device screen and console of Eclipse.
 
 Some shortcuts during experiments:
 ![alt tag](https://github.com/bxs3514/MCC-Offloading/blob/master/Examination%202/1/Low1.jpg?raw=true)
