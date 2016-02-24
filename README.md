@@ -9,4 +9,4 @@ And doc files are the reports of the MCC system.
 
 Some shortcuts during experiments:
 ![alt tag](https://github.com/bxs3514/MCC-Offloading/blob/master/Examination%202/1/Low1.jpg?raw=true)
-![alt tag](https://github.com/bxs3514/MCC-Offloading/blob/master/Examination%202/1/Screenshot_2015-07-28-19-51-28.png?raw=true)
+![alt tag](https://github.com/bxs3514/MCC-Offloading/blob/master/Examination%202/1/Screenshot_2015-07-28-20-10-40.png?raw=true)
